@@ -1,0 +1,4 @@
+{
+   "presets": ["flow", "transform-flow-strip-types"],
+   "plugins": ["emotion"]
+}

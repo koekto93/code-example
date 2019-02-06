@@ -1,0 +1,6 @@
+export { default as Greeting } from './Greeting'
+export { default as VacancyDescription } from './VacancyDescription'
+export { default as Conditions } from './Conditions'
+export { default as Registration } from './Registration'
+export { default as Recording } from './Recording'
+export { default as Conclusion } from './Conclusion'
